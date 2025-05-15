@@ -1,6 +1,6 @@
 # Solana Swap Streamer & Price Impact Model
 
-This project demonstrates a real-time streaming pipeline for Solana swaps, designed as an exact fit for Kinetic's multi-chain DEX aggregator architecture.
+This project demonstrates a real-time streaming pipeline for Solana swaps, designed as a multi-chain DEX aggregator architecture.
 
 - **Typescript microservice**: Streams Solana swap transactions and publishes them to Kafka.
 - **Kafka**: Handles real-time data streaming.
@@ -43,4 +43,4 @@ Contact: Siraj Raval
 
 ---
 
-*Built for Kinetic: Multi-chain DEX Aggregator & Trading Dashboard*
+*Multi-chain DEX Aggregator & Trading Dashboard*
